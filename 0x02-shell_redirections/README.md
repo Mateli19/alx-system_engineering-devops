@@ -10,4 +10,5 @@
 8. Save current state of directory- > Write a script that writes into the file ls_cwd_content the result of the command ls -la.
 9. Duplicate last line- > Write a script that duplicates the last line of the file iacta.
 10. No more javascript- > No_more_js [*]
-12. What’s new- > Create a script that displays the 10 newest files in the current directory. 
+12. What’s new- > Create a script that displays the 10 newest files in the current directory.
+13. Being unique is better than being perfect- > Create a script that takes a list of words as input and prints only words that appear exactly once. 
