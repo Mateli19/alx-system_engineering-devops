@@ -9,4 +9,5 @@
 7. It is a good file that cuts iron without making a noise- > Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8. Save current state of directory- > Write a script that writes into the file ls_cwd_content the result of the command ls -la.
 9. Duplicate last line- > Write a script that duplicates the last line of the file iacta.
-10. No more javascript- > No_more_js [*] 
+10. No more javascript- > No_more_js [*]
+12. What’s new- > Create a script that displays the 10 newest files in the current directory. 
